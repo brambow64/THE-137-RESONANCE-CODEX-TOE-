@@ -1,3 +1,9 @@
+🧩 Contributing to The 137 Resonance Codex
+
+Thank you for your interest in contributing to this project.
+The 137 Resonance Codex is a hybrid scientific–computational framework that unifies field theory, resonance mechanics, theorem architecture, and simulation logic.
+To maintain coherence across all layers, please follow the guidelines below.
+
 📘 1. Types of Contributions
 
 You may contribute in the following areas:
@@ -12,15 +18,21 @@ Improving formulas, structural proofs, numerical stability, or resonance logic.
 
 • Simulation Code
 
-Enhancements to the 1=137 Field Modulator, the Σ₉ Coherence Engine, or any supporting computational modules.
+Enhancements to:
+
+the 1=137 Field Modulator,
+
+the Σ₉ Coherence Engine,
+
+or any supporting computational modules.
 
 • Documentation & Explanations
 
-Improved README sections, diagrams, GitHub Pages content, website text, or explanatory research notes.
+Improvements to the README, diagrams, GitHub Pages content, website text, or explanatory notes.
 
 • Testing & Validation
 
-Running numerical tests, verifying resonance behavior, measuring coherence outcomes, benchmarking transitions, or stress-testing models.
+Running numerical tests, verifying resonance behavior, coherence outcomes, benchmarking transitions, or stress-testing models.
 
 📘 2. How to Contribute
 Step 1 — Fork the Repository
@@ -29,7 +41,7 @@ Create your own fork and work on your edits there.
 
 Step 2 — Create a Feature Branch
 
-Use a descriptive branch name such as:
+Use a descriptive branch name, for example:
 
 feature/sigma9-optimizer
 fix/theorem-42-notation
@@ -38,7 +50,7 @@ analysis/reality-map-corrections
 
 Step 3 — Commit Clearly
 
-Write meaningful commit messages, for example:
+Write meaningful commit messages such as:
 
 Added Σ₉ drift correction
 Refactored 137 transition logic
@@ -56,8 +68,51 @@ Why it improves the project
 
 Any mathematical, numerical, or conceptual impact
 
-Relevant test results if applicable
-
-Pull requests are reviewed manually to ensure alignment with the 137 Resonance Codex framework.pplicable)
+Relevant test/validation results (if applicable)
 
 All pull requests are manually reviewed to ensure alignment with the 137 Resonance Codex framework.
+
+📘 3. Code Style Guidelines
+
+Use PEP8 conventions for Python code
+
+Include type hints where possible
+
+Keep functions deterministic unless controlled randomness is required
+
+Document resonance logic, layer interactions, or field transitions clearly
+
+Add inline comments when referencing theorem logic
+
+📘 4. Theorem Writing Guidelines
+
+To maintain structural coherence, every theorem must follow the fixed 7-layer architecture:
+
+Essence & Depth
+
+Layers 1–3
+
+Layers 4–6
+
+Layers 7–9
+
+All Sublayers
+
+Three Closing Reflections
+
+Numerical Resonance Theorem
+
+📘 5. Discussions & Questions
+
+For conceptual or theoretical questions, open a Discussion.
+For bugs, issues, or simulation anomalies, open an Issue.
+
+📘 6. License
+
+All contributions are released under the MIT License:
+
+MIT License © 2025 Bram van Erp, Helmond, Netherlands
+
+
+Thank you for helping improve the 137 Resonance Codex.
+Every contribution strengthens the universal model.

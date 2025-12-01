@@ -48,3 +48,37 @@
     </div>
   </div>
 </section>
+<section id="simple">
+  <h2 class="section-title">Simple Explanation</h2>
+
+  <div class="card">
+    <div class="card-badge">For non-physicists</div>
+    <h3>The Codex in simple words</h3>
+    <p>
+      The 137 Resonance Codex is a map of how the universe organizes itself.  
+      Instead of using many different scientific theories, the Codex shows that everything fits on one structure:
+      a single split between two numbers — 1/137.035999 (energy) and 1/137.000000 (matter).
+    </p>
+
+    <p style="margin-top:0.6rem;">
+      This small difference (0.035999…) creates the boundary between:
+    </p>
+
+    <ul class="list">
+      <li>what becomes visible,</li>
+      <li>what stays invisible,</li>
+      <li>when matter appears,</li>
+      <li>and how energy behaves.</li>
+    </ul>
+
+    <p style="margin-top:0.6rem;">
+      All layers of the Codex — the fields, the 27 realities, the Σ₉ engine — sit on this one map.
+      If you understand this split, you understand the core idea.
+    </p>
+
+    <p style="margin-top:0.6rem;">
+      Theorems 0–100 explain how this map works step by step,  
+      and the tools on this website let you explore the structure in action.
+    </p>
+  </div>
+</section>

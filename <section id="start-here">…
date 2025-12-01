@@ -1,0 +1,50 @@
+<section id="start-here">
+  <h2 class="section-title">Start Here</h2>
+
+  <div class="two-column">
+    <div class="card">
+      <div class="card-badge">For New Readers</div>
+      <h3>How to approach the Codex</h3>
+      <p>
+        The 137 Resonance Codex is a complete field model, not a single paper.  
+        To make it accessible, this “Start Here” guide walks you through the most important entry points:
+      </p>
+      <ul class="list">
+        <li>understand the idea of the Codex as a universal map,</li>
+        <li>read the core summary in the README,</li>
+        <li>explore the Genesis Series (Theorems 0–100),</li>
+        <li>and use the tools to see the model in action.</li>
+      </ul>
+      <p style="margin-top:0.6rem;">
+        You do not need to understand every equation on day one.  
+        The goal is to see <em>how</em> everything fits together on the 1/137 landscape.
+      </p>
+    </div>
+
+    <div class="card">
+      <div class="card-badge">Quick Path</div>
+      <h3>4 steps to get started</h3>
+      <ol class="list" style="list-style:decimal; padding-left:1.2rem;">
+        <li>
+          <strong>Read the main README.</strong>  
+          Get the high-level picture of the Codex as a universal map.
+        </li>
+        <li>
+          <strong>Download the Theorem Bundle (0–100).</strong>  
+          These theorems form the Genesis Series of the model.
+        </li>
+        <li>
+          <strong>Study Theorem 0 carefully.</strong>  
+          It contains the full 0.0 plasma field and the complete calculation set under the theorem.
+        </li>
+        <li>
+          <strong>Look at the Tools Build-Up section.</strong>  
+          See how the 1=137 Field Modulator, Σ₉ engine and other tools make the Codex operational.
+        </li>
+      </ol>
+      <p style="margin-top:0.6rem;">
+        After that, you can move deeper into the theorem index, simulations, or specific field layers that match your interest.
+      </p>
+    </div>
+  </div>
+</section>

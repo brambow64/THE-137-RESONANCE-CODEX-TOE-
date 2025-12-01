@@ -185,12 +185,4 @@ A stable reference for documentation and development
 
 📌 Next Sections (Upcoming Index Files)
 
-If you wish, I can generate:
 
-THEOREM_INDEX_101_200.md
-
-THEOREM_INDEX_201_300.md
-
-THEOREM_INDEX_301_400.md
-
-THEOREM_INDEX_401_468.md
